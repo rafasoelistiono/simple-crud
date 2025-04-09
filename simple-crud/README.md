@@ -1,1 +1,1 @@
-# Tutorial CRUD dengan menggunakan Laravel 9 & MySQL
+CRUD dengan menggunakan Laravel 9 & MySQL
